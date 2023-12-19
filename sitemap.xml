@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://leechristopher722.github.io/portfolio/docs/</loc>
-    <lastmod>2023-12-19T21:22:13+09:00</lastmod>
-  </url><url>
     <loc>http://leechristopher722.github.io/portfolio/</loc>
-    <lastmod>2023-12-19T21:22:13+09:00</lastmod>
+    <lastmod>2023-12-19T21:40:11+09:00</lastmod>
   </url><url>
-    <loc>http://leechristopher722.github.io/portfolio/docs/test/</loc>
-    <lastmod>2023-12-19T21:22:13+09:00</lastmod>
+    <loc>http://leechristopher722.github.io/portfolio/posts/</loc>
+    <lastmod>2023-12-19T21:40:11+09:00</lastmod>
+  </url><url>
+    <loc>http://leechristopher722.github.io/portfolio/posts/my-first-post/</loc>
+    <lastmod>2023-12-19T21:40:11+09:00</lastmod>
   </url><url>
     <loc>http://leechristopher722.github.io/portfolio/authors/</loc>
   </url><url>
